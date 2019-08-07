@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>473193020702-qnojfhqi9hgdgrps10em2512t2j86hps.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.473193020702-qnojfhqi9hgdgrps10em2512t2j86hps</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB38E-PjBIpt_vRcfjPE7WGVy4edSw-Ghk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>473193020702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ios.Login</string>
+	<key>PROJECT_ID</key>
+	<string>login-301ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-301ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:473193020702:ios:948215b34d1214a1</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-301ec.firebaseio.com</string>
+</dict>
+</plist>
